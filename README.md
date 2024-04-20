@@ -1,6 +1,6 @@
 # JRF35
 Página en GITHUB de Juan
-![Imagen de Portada](url_de_la_imagen)
+![Imagen de Portada](R.jpeg)
 ## Descripción
 Breve descripción del proyecto, objetivos y funcionalidades principales.
 ## Características
